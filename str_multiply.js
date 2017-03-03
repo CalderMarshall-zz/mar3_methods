@@ -8,7 +8,7 @@ function range(min, max) {
 
 var strMultiply = function (str, times) {
   var arr = range(0 , 5);
-  letter = function(range){
+  letter = function(){
     return str;
   };
   combine = function(a, b){
